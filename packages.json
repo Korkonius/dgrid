@@ -9,9 +9,7 @@
                     "url": "https://github.com/SitePen/dgrid",
                     "reference": "v0.3.6"
                 },
-                "type": "zend-extra",
                 "require": {
-                    "composer/installers": "~1.0",
                     "xstyle": "0.0.5",
                     "put-selector": "0.3.2"
                 }
@@ -26,9 +24,7 @@
                     "url": "https://github.com/kriszyp/xstyle",
                     "reference": "v0.0.5"
                 },
-                "type": "zend-extra",
                 "require": {
-                    "composer/installers": "~1.0"
                 }
             }
         },
@@ -41,9 +37,7 @@
                     "url": "https://github.com/kriszyp/put-selector",
                     "reference": "v0.3.2"
                 },
-                "type": "zend-extra",
                 "require": {
-                    "composer/installers": "~1.0"
                 }
             }
         }
