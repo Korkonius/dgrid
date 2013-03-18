@@ -1,0 +1,30 @@
+{
+    "name": "korkonius/dgrid",
+    "description": "A simple repo that allows dgrid to be installed with composer. Inspired by superdweebie's dojo repo",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "dojo",
+        "dgrid",
+        "composer",
+        "xstyle",
+        "put-selector"
+    ],
+    "homepage": "http://github.com/korkonius/dgrid",
+    "authors": [
+        {
+            "name": "Eirik Eggesbø Ottesen",
+            "email": "Korkonius@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer", "url": "https://raw.github.com/korkonius/dgrid/master"
+        }
+    ],
+    "require": {
+        "xstyle": "0.0.5",
+        "put-selector": "0.3.2",
+        "dgrid": "0.3.6"
+    }
+}

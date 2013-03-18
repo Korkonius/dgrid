@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "dgrid": {
+            "0.3.6": {
+                "name": "dgrid",
+                "version": "0.3.6",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SitePen/dgrid",
+                    "reference": "v0.3.6"
+                },
+                "type": "zend-extra",
+                "require": {
+                    "composer/installers": "~1.0",
+                    "xstyle": "0.0.5",
+                    "put-selector": "0.3.2"
+                }
+            }
+        },
+        "xstyle": {
+            "0.0.5": {
+                "name": "xstyle",
+                "version": "0.0.5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kriszyp/xstyle",
+                    "reference": "v0.0.5"
+                },
+                "type": "zend-extra",
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        },
+        "put-selector": {
+            "0.3.2": {
+                "name": "put-selector",
+                "version": "0.3.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kriszyp/put-selector",
+                    "reference": "v0.3.2"
+                },
+                "type": "zend-extra",
+                "require": {
+                    "composer/installers": "~1.0"
+                }
+            }
+        }
+    }
+}

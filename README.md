@@ -1,0 +1,1 @@
+A simple repo that allows dgrid to be installed with composer. Inspired by superdweebie's dojo repo.
