@@ -11,7 +11,7 @@
                 },
                 "require": {
                     "xstyle": "0.2.0",
-                    "put-selector": "0.3.4"
+                    "put-selector": "0.3.5"
                 }
             },
             "0.3.9": {
@@ -136,6 +136,17 @@
             }
         },
         "put-selector": {
+            "0.3.5": {
+                "name": "put-selector",
+                "version": "0.3.5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kriszyp/put-selector",
+                    "reference": "v0.3.5"
+                },
+                "require": {
+                }
+            },
             "0.3.4": {
                 "name": "put-selector",
                 "version": "0.3.4",
