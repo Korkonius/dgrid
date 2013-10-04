@@ -1,6 +1,19 @@
 {
     "packages": {
         "dgrid": {
+            "0.3.11": {
+                "name": "dgrid",
+                "version": "0.3.11",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SitePen/dgrid",
+                    "reference": "v0.3.11"
+                },
+                "require": {
+                    "xstyle": "0.2.0",
+                    "put-selector": "0.3.4"
+                }
+            },
             "0.3.9": {
                 "name": "dgrid",
                 "version": "0.3.9",
