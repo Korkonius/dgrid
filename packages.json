@@ -1,6 +1,32 @@
 {
     "packages": {
         "dgrid": {
+            "0.3.13": {
+                "name": "dgrid",
+                "version": "0.3.13",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SitePen/dgrid",
+                    "reference": "v0.3.13"
+                },
+                "require": {
+                    "xstyle": "0.2.1",
+                    "put-selector": "0.3.5"
+                }
+            },
+            "0.3.12": {
+                "name": "dgrid",
+                "version": "0.3.12",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SitePen/dgrid",
+                    "reference": "v0.3.12"
+                },
+                "require": {
+                    "xstyle": "0.2.1",
+                    "put-selector": "0.3.5"
+                }
+            },
             "0.3.11": {
                 "name": "dgrid",
                 "version": "0.3.11",
@@ -68,6 +94,17 @@
             }
         },
         "xstyle": {
+            "0.2.1": {
+                "name": "xstyle",
+                "version": "0.2.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kriszyp/xstyle",
+                    "reference": "v0.2.1"
+                },
+                "require": {
+                }
+            },
             "0.2.0": {
                 "name": "xstyle",
                 "version": "0.2.0",
