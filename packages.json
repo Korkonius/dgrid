@@ -1,6 +1,20 @@
 {
     "packages": {
         "dgrid": {
+            "0.4.0": {
+                "name": "dgrid",
+                "version": "0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SitePen/dgrid",
+                    "reference": "v0.4.0"
+                },
+                "require": {
+                    "xstyle": "0.2.1",
+                    "put-selector": "0.3.6",
+                    "dstore": "1.0.0"
+                }
+            },
             "0.3.16": {
                 "name": "dgrid",
                 "version": "0.3.16",
@@ -212,6 +226,17 @@
             }
         },
         "put-selector": {
+            "0.3.6": {
+                "name": "put-selector",
+                "version": "0.3.6",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kriszyp/put-selector",
+                    "reference": "v0.3.6"
+                },
+                "require": {
+                }
+            },
             "0.3.5": {
                 "name": "put-selector",
                 "version": "0.3.5",
@@ -254,6 +279,63 @@
                     "reference": "v0.3.2"
                 },
                 "require": {
+                }
+            }
+        },
+        "dstore": {
+            "0.1.0": {
+                "name": "dstore",
+                "version": "0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SitePen/dstore",
+                    "reference": "v0.1.0"
+                },
+                require: {
+                }
+            },
+            "0.1.1": {
+                "name": "dstore",
+                "version": "0.1.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SitePen/dstore",
+                    "reference": "v0.1.1"
+                },
+                require: {
+                }
+            },
+            "0.2.0": {
+                "name": "dstore",
+                "version": "0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SitePen/dstore",
+                    "reference": "v0.2.0"
+                },
+                require: {
+                }
+            },
+            "0.3.0": {
+                "name": "dstore",
+                "version": "0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SitePen/dstore",
+                    "reference": "v0.3.0"
+                },
+                require: {
+                }
+            },
+            "1.0.0": {
+                "name": "dstore",
+                "version": "1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SitePen/dstore",
+                    "reference": "v1.0.0"
+                },
+                require: {
                 }
             }
         }
