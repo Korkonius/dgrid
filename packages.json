@@ -291,7 +291,7 @@
                     "url": "https://github.com/SitePen/dstore",
                     "reference": "v0.1.0"
                 },
-                require: {
+                "require": {
                 }
             },
             "0.1.1": {
@@ -302,7 +302,7 @@
                     "url": "https://github.com/SitePen/dstore",
                     "reference": "v0.1.1"
                 },
-                require: {
+                "require": {
                 }
             },
             "0.2.0": {
@@ -313,7 +313,7 @@
                     "url": "https://github.com/SitePen/dstore",
                     "reference": "v0.2.0"
                 },
-                require: {
+                "require": {
                 }
             },
             "0.3.0": {
@@ -324,7 +324,7 @@
                     "url": "https://github.com/SitePen/dstore",
                     "reference": "v0.3.0"
                 },
-                require: {
+                "require": {
                 }
             },
             "1.0.0": {
@@ -335,7 +335,7 @@
                     "url": "https://github.com/SitePen/dstore",
                     "reference": "v1.0.0"
                 },
-                require: {
+                "require": {
                 }
             }
         }
